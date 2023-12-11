@@ -1,6 +1,6 @@
 # React + Vite
 
-## Objectif : 
+# Objectif : 
 ## Créer une application web de compteur sous React et Redux Toolkit. L'application devrait permettre aux utilisateurs :
 
     d'incrémenter la valeur avec un bouton
